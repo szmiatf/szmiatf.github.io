@@ -3,7 +3,7 @@
 Plugin Name: Merkbau csoport functions override
 Plugin URI: https://szmiatf.eu/merkbau-override/ 
 Description: Meta, Feed, RestAPI, Emoji és oEmbed tiltása
-Ver: 1.3
+Version: 1.3
 Author URI: https://merkbau.hu
 */
 /* Start Adding Functions Below this Line */
